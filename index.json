@@ -1,0 +1,2319 @@
+[
+{
+"name": "Dublin",
+"id": 811,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_JZyG0gZPji8FzPFCaqPQdbiSYDCG_COtu4YayY6o0yY.jpg"
+},
+"description": "",
+"start_date": "2023-04-11",
+"end_date": "2023-04-21",
+"locations": {
+"Dublin, Dublin City IE": 14,
+"Malahide, IE": 2,
+"Kells, Co Kilkenny IE": 4,
+"Thomastown, Co Kilkenny IE": 9,
+"Inistioge, Co Kilkenny IE": 1,
+"Holycross, Co Tipperary IE": 1,
+"Cashel, Co Tipperary IE": 2,
+"Lemybrien, Co Waterford IE": 1,
+"Cappoquin, Co Waterford IE": 1,
+"Knocktopher, Co Kilkenny IE": 1,
+"Tramore, Co Waterford IE": 2,
+"Co Waterford, Co Waterford IE": 1,
+"Avoca, Co Wicklow IE": 1,
+"Co Wicklow, Co Wicklow IE": 2,
+"Blessington, Co Wicklow IE": 3,
+"Enniskerry, Co Wicklow IE": 3
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:27.765Z",
+"updated_at": "2023-05-26T17:21:27.765Z",
+"published_at": "2023-05-26T17:21:27.750Z"
+},
+{
+"name": "Seattle",
+"id": 814,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2023-02-16",
+"end_date": "2023-02-22",
+"locations": {
+"SeaTac, WA US": 5,
+"Seattle, WA US": 10,
+"Camano, WA US": 2
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:27.889Z",
+"updated_at": "2023-05-26T17:21:27.889Z",
+"published_at": "2023-05-26T17:21:27.886Z"
+},
+{
+"name": "Reykjavik",
+"id": 820,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_CFhmUJX1BNQiIxRBN3LUr_E3dY_SbpeKD-82QxC6fck.jpg"
+},
+"description": "",
+"start_date": "2022-09-16",
+"end_date": "2022-10-07",
+"locations": {
+"Fiumicino, Latium IT": 2,
+"Rome, Latium IT": 1,
+"Cortona, Tuscany IT": 5,
+"Pienza, Tuscany IT": 1,
+"Castiglione d'Orcia, Tuscany IT": 1,
+"Siena, Tuscany IT": 2,
+"Montepulciano, Tuscany IT": 5,
+"Florence, Tuscany IT": 1,
+"Roissy-en-France, Île-de-France FR": 2,
+"Le Mesnil-Amelot, Île-de-France FR": 1,
+"Mérignac, Nouvelle-Aquitaine FR": 2,
+"Bordeaux, Nouvelle-Aquitaine FR": 2,
+"Andernos-les-Bains, Nouvelle-Aquitaine FR": 6,
+"Tremblay-en-France, Île-de-France FR": 2,
+"Keflavik, Southern Peninsula IS": 4,
+"Reykjavik, Capital Region IS": 10,
+"Reykjavík, Greater Reykjavík IS": 1,
+"Bláskógabyggð, South IS": 3,
+"Selfoss, Southern Region IS": 2,
+"Selfoss, South IS": 3,
+"Reykholt, South IS": 1,
+"Sangerdi, Southern Peninsula IS": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:27.987Z",
+"updated_at": "2023-05-26T17:21:27.987Z",
+"published_at": "2023-05-26T17:21:27.984Z"
+},
+{
+"name": "Leduc",
+"id": 822,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2022-08-16",
+"end_date": "2022-08-23",
+"locations": {
+"SeaTac, WA US": 2,
+"Leduc, AB CA": 7,
+"Edmonton, AB CA": 4,
+"Stony Rapids, SK CA": 2,
+"Division #18, Unorganized, SK CA": 2,
+"Mississauga, ON CA": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.141Z",
+"updated_at": "2023-05-26T17:21:28.141Z",
+"published_at": "2023-05-26T17:21:28.138Z"
+},
+{
+"name": "Cincinnati",
+"id": 825,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2022-06-23",
+"end_date": "2022-06-25",
+"locations": {
+"Rensselaer, IN US": 1,
+"Cincinnati, OH US": 5,
+"Newport, KY US": 2
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.196Z",
+"updated_at": "2023-05-26T17:21:28.196Z",
+"published_at": "2023-05-26T17:21:28.193Z"
+},
+{
+"name": "Cathedral City",
+"id": 839,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2021-04-11",
+"end_date": "2021-04-20",
+"locations": {
+"Broomfield, CO US": 1,
+"Las Vegas, NV US": 4,
+"Rancho Mirage, CA US": 4,
+"Cathedral City, CA US": 4,
+"Palm Springs, CA US": 3,
+"Garden City, KS US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.393Z",
+"updated_at": "2023-05-26T17:21:28.393Z",
+"published_at": "2023-05-26T17:21:28.391Z"
+},
+{
+"name": "Berrien Springs",
+"id": 856,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2020-03-21",
+"end_date": "2020-03-23",
+"locations": {
+"Portage, IN US": 2,
+"Berrien Springs, MI US": 2,
+"Buchanan, MI US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.638Z",
+"updated_at": "2023-05-26T17:21:28.638Z",
+"published_at": "2023-05-26T17:21:28.635Z"
+},
+{
+"name": "Singapore",
+"id": 857,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_TPbJpWMcgpVVa883x6lPR3rJcPP7nwg166dMzZXODrI.jpg"
+},
+"description": "",
+"start_date": "2020-02-25",
+"end_date": "2020-03-11",
+"locations": {
+"Narita, Chiba JP": 3,
+"Bang Phli, Samut Prakan TH": 2,
+"Vadhana, Bangkok TH": 3,
+"Phra Nakhon, Bangkok TH": 10,
+"Bangkok Noi, Bangkok TH": 2,
+"Phasi Charoen, Bangkok TH": 4,
+"Bangkok Yai, Bangkok TH": 1,
+"Khlong Toei, Bangkok TH": 1,
+"bang Phli, Samut Prakan TH": 1,
+"Ko Samui, Changwat Surat Thani TH": 5,
+"Amphoe Ko Samui, Changwat Surat Thani TH": 1,
+"มะเร็ต, จ.สุราษฎร์ธานี TH": 2,
+"Koh Samui, Surat Thani TH": 6,
+"Bo Phut, Changwat Surat Thani TH": 1,
+"Singapore, SG": 64,
+"Tanjong Pagar, Singapore SG": 3,
+"City, SG": 1,
+"Chinatown, SG": 1,
+"Telok Blangah, Singapore SG": 1,
+"Sentosa Island, SG": 5,
+"Marina, Singapore SG": 1,
+"San Francisco, CA US": 5
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.651Z",
+"updated_at": "2023-05-26T17:21:28.651Z",
+"published_at": "2023-05-26T17:21:28.649Z"
+},
+{
+"name": "New York",
+"id": 859,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2020-02-01",
+"end_date": "2020-02-07",
+"locations": {
+"Queens, NY US": 3,
+"New York, NY US": 19
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.864Z",
+"updated_at": "2023-05-26T17:21:28.864Z",
+"published_at": "2023-05-26T17:21:28.862Z"
+},
+{
+"name": "Salida",
+"id": 860,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2020-01-16",
+"end_date": "2020-01-20",
+"locations": {
+"Denver, CO US": 4,
+"Golden, CO US": 2,
+"Wheat Ridge, CO US": 2,
+"Jefferson, CO US": 1,
+"Fairplay, CO US": 2,
+"Buena Vista, CO US": 3,
+"Nathrop, CO US": 1,
+"Salida, CO US": 10,
+"Poncha Springs, CO US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.901Z",
+"updated_at": "2023-05-26T17:21:28.901Z",
+"published_at": "2023-05-26T17:21:28.899Z"
+},
+{
+"name": "Reykjavik",
+"id": 863,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_86YUGrK6JN4eRhZ_kZ6xkLcMznTTg7419CG1nDNGIs8.jpg"
+},
+"description": "",
+"start_date": "2019-11-04",
+"end_date": "2019-11-10",
+"locations": {
+"Keflavik, Southern Peninsula IS": 5,
+"Grindavik, Southern Peninsula IS": 1,
+"Reykjavik, Capital Region IS": 27,
+"Reykjavík, Höfuðborgarsvæðið IS": 1,
+"Borgarnes, West IS": 1,
+"Stykkisholmur, West IS": 7,
+"Búðir, West IS": 1,
+"Arnarstapi, Western Iceland IS": 1,
+"Grundarfjordur, West IS": 1,
+"Kjósarskarðsvegur, IS": 1,
+"Þingvallahreppur, South IS": 1,
+"Hveragerdi, South IS": 1,
+"Bláskógabyggð, South IS": 2,
+"Reykholt, South IS": 1,
+"Sangerdi, Southern Peninsula IS": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:28.976Z",
+"updated_at": "2023-05-26T17:21:28.976Z",
+"published_at": "2023-05-26T17:21:28.972Z"
+},
+{
+"name": "Denver",
+"id": 864,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2019-10-18",
+"end_date": "2019-10-20",
+"locations": {
+"Denver, CO US": 9,
+"Golden, CO US": 4
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.086Z",
+"updated_at": "2023-05-26T17:21:29.086Z",
+"published_at": "2023-05-26T17:21:29.084Z"
+},
+{
+"name": "Reed City",
+"id": 865,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2019-09-13",
+"end_date": "2019-09-15",
+"locations": {
+"Saint Joseph, MI US": 1,
+"Douglas, MI US": 1,
+"Lake Leelanau, MI US": 1,
+"Reed City, MI US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.116Z",
+"updated_at": "2023-05-26T17:21:29.116Z",
+"published_at": "2023-05-26T17:21:29.114Z"
+},
+{
+"name": "San Francisco",
+"id": 866,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_chl0NKRUODnbXUXrHc7PLOa0lYbNtN4cQwfOpkDIgHI.jpg"
+},
+"description": "",
+"start_date": "2019-09-10",
+"end_date": "2019-09-12",
+"locations": {
+"San Francisco, CA US": 7,
+"Sausalito, CA US": 2,
+"Larkspur, CA US": 2,
+"South San Francisco, CA US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.129Z",
+"updated_at": "2023-05-26T17:21:29.129Z",
+"published_at": "2023-05-26T17:21:29.127Z"
+},
+{
+"name": "Fennville",
+"id": 868,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2019-08-09",
+"end_date": "2019-08-11",
+"locations": {
+"Portage, IN US": 1,
+"Allegan, MI US": 1,
+"Fennville, MI US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.166Z",
+"updated_at": "2023-05-26T17:21:29.166Z",
+"published_at": "2023-05-26T17:21:29.163Z"
+},
+{
+"name": "Rochester",
+"id": 872,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2019-07-05",
+"end_date": "2019-07-07",
+"locations": {
+"Rochester, NY US": 2,
+"Livingston County, NY US": 1,
+"Geneseo, NY US": 1,
+"Lakeville, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.217Z",
+"updated_at": "2023-05-26T17:21:29.217Z",
+"published_at": "2023-05-26T17:21:29.214Z"
+},
+{
+"name": "Portland",
+"id": 874,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_1XT-bu-7VziAnwQDGWzXOE1D1cFBqdhX_R_1gBEmSDk.jpg"
+},
+"description": "",
+"start_date": "2019-06-21",
+"end_date": "2019-06-30",
+"locations": {
+"Portland, OR US": 12,
+"Seattle, WA US": 9,
+"Juneau, AK US": 9,
+"Skagway, AK US": 6,
+"Ketchikan, AK US": 10,
+"Victoria, BC CA": 3,
+"Brentwood Bay, BC CA": 1,
+"SeaTac, WA US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.247Z",
+"updated_at": "2023-05-26T17:21:29.247Z",
+"published_at": "2023-05-26T17:21:29.244Z"
+},
+{
+"name": "New York",
+"id": 875,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2019-06-02",
+"end_date": "2019-06-05",
+"locations": {
+"Queens, NY US": 4,
+"New York, NY US": 16
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.333Z",
+"updated_at": "2023-05-26T17:21:29.333Z",
+"published_at": "2023-05-26T17:21:29.330Z"
+},
+{
+"name": "Singapore",
+"id": 879,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_JkYK1wbX849lp7RHwlzAnGR8N_eNP7Hy4QCkTI1ZeFs.jpg"
+},
+"description": "",
+"start_date": "2019-03-31",
+"end_date": "2019-04-15",
+"locations": {
+"Narita, Chiba JP": 4,
+"Tokyo, Tokyo JP": 31,
+"Chiyoda, Tokyo JP": 7,
+"Shinjuku, Tokyo JP": 3,
+"Kyoto, Kyōto JP": 26,
+"Fushimi, Kyōto JP": 1,
+"Hamamatsu, Shizuoka JP": 1,
+"Singapore, SG": 57,
+"Tanjong Pagar, Singapore SG": 1,
+"Marina South, SG": 1,
+"Marina, Singapore SG": 1,
+"San Francisco, CA US": 2
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.405Z",
+"updated_at": "2023-05-26T17:21:29.405Z",
+"published_at": "2023-05-26T17:21:29.403Z"
+},
+{
+"name": "Bordeaux",
+"id": 880,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_mtMG6B6h56k4SK9eAuJPvaTwN7LS5nudOT3JCXMwbMs.jpg"
+},
+"description": "",
+"start_date": "2019-02-15",
+"end_date": "2019-03-02",
+"locations": {
+"Roissy-en-France, Île-de-France FR": 2,
+"Mauregard, Île-de-France FR": 2,
+"Le Mesnil-Amelot, Île-de-France FR": 1,
+"Mérignac, Nouvelle-Aquitaine FR": 5,
+"Bordeaux, Nouvelle-Aquitaine FR": 25,
+"Saint-Émilion, Nouvelle-Aquitaine FR": 11,
+"Léognan, Nouvelle-Aquitaine FR": 1,
+"Bègles, Nouvelle-Aquitaine FR": 1,
+"Andernos-les-Bains, Nouvelle-Aquitaine FR": 4,
+"Le Bouscat, Nouvelle-Aquitaine FR": 1,
+"Crawley, West Sussex GB": 1,
+"City of Westminster, Greater London GB": 1,
+"London, Greater London GB": 23,
+"Soho, Greater London GB": 3,
+"Covent Garden, Greater London GB": 1,
+"King's Cross, Greater London GB": 1,
+"Paris, Île-de-France FR": 5
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.603Z",
+"updated_at": "2023-05-26T17:21:29.603Z",
+"published_at": "2023-05-26T17:21:29.601Z"
+},
+{
+"name": "Palm Springs",
+"id": 882,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-12-28",
+"end_date": "2019-01-05",
+"locations": {
+"Los Angeles, CA US": 8,
+"El Segundo, CA US": 1,
+"Pasadena, CA US": 7,
+"Hawthorne, CA US": 2,
+"Altadena, CA US": 2,
+"South Pasadena, CA US": 1,
+"West Hollywood, CA US": 1,
+"Palm Springs, CA US": 8,
+"Industry, CA US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.764Z",
+"updated_at": "2023-05-26T17:21:29.764Z",
+"published_at": "2023-05-26T17:21:29.760Z"
+},
+{
+"name": "New York",
+"id": 884,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-12-09",
+"end_date": "2018-12-14",
+"locations": {
+"Queens, NY US": 1,
+"New York, NY US": 12,
+"East Elmhurst, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.834Z",
+"updated_at": "2023-05-26T17:21:29.834Z",
+"published_at": "2023-05-26T17:21:29.831Z"
+},
+{
+"name": "Rochester",
+"id": 885,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-11-30",
+"end_date": "2018-12-02",
+"locations": {
+"Rochester, NY US": 3,
+"Livonia, NY US": 1,
+"Geneseo, NY US": 1,
+"Livingston County, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.867Z",
+"updated_at": "2023-05-26T17:21:29.867Z",
+"published_at": "2023-05-26T17:21:29.865Z"
+},
+{
+"name": "Cancún",
+"id": 887,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_PlPDXqQOKbZvRJ3a2UuEQtO-qJ7Q4Msf_ZZ91ftXMTk.jpg"
+},
+"description": "",
+"start_date": "2018-11-06",
+"end_date": "2018-11-12",
+"locations": {
+"Cancún, Quintana Roo MX": 13,
+"Cancún, QROO MX": 3,
+"Puerto Morelos, Quintana Roo MX": 1,
+"Tulum, Quintana Roo MX": 7,
+"Tulum, QROO MX": 1,
+"Coba, Quintana Roo MX": 2,
+"Cobá, QROO MX": 1,
+"Cancun, Aguascalientes MX": 7,
+"Isla Mujeres, Quintana Roo MX": 6
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.899Z",
+"updated_at": "2023-05-26T17:21:29.899Z",
+"published_at": "2023-05-26T17:21:29.897Z"
+},
+{
+"name": "New York",
+"id": 889,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-09-30",
+"end_date": "2018-10-03",
+"locations": {
+"Queens, NY US": 2,
+"East Elmhurst, NY US": 2,
+"New York, NY US": 12
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:29.982Z",
+"updated_at": "2023-05-26T17:21:29.982Z",
+"published_at": "2023-05-26T17:21:29.980Z"
+},
+{
+"name": "Grapevine",
+"id": 891,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-09-24",
+"end_date": "2018-09-25",
+"locations": {
+"Grapevine, TX US": 2,
+"Dallas, TX US": 1,
+"Addison, TX US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.036Z",
+"updated_at": "2023-05-26T17:21:30.036Z",
+"published_at": "2023-05-26T17:21:30.033Z"
+},
+{
+"name": "Los Angeles",
+"id": 892,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_obzLgujvttIS3q8v8CMl5FJ8plMgI739aQT5su7q12Q.jpg"
+},
+"description": "",
+"start_date": "2018-09-11",
+"end_date": "2018-09-12",
+"locations": {
+"Los Angeles, CA US": 5,
+"West Hollywood, CA US": 3
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.052Z",
+"updated_at": "2023-05-26T17:21:30.052Z",
+"published_at": "2023-05-26T17:21:30.049Z"
+},
+{
+"name": "San Francisco",
+"id": 894,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-08-13",
+"end_date": "2018-08-17",
+"locations": {
+"San Francisco, CA US": 15
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.087Z",
+"updated_at": "2023-05-26T17:21:30.087Z",
+"published_at": "2023-05-26T17:21:30.084Z"
+},
+{
+"name": "Michigan City",
+"id": 895,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-08-11",
+"end_date": "2018-08-12",
+"locations": {
+"Lakeside, MI US": 1,
+"Sawyer, MI US": 1,
+"New Buffalo Township, MI US": 1,
+"Michigan City, IN US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.117Z",
+"updated_at": "2023-05-26T17:21:30.117Z",
+"published_at": "2023-05-26T17:21:30.114Z"
+},
+{
+"name": "Montreal",
+"id": 896,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_rLuDa1P0PThjLavS6WJyzeLb_NCXc6r2_52o8GRQOXc.jpg"
+},
+"description": "",
+"start_date": "2018-08-03",
+"end_date": "2018-08-06",
+"locations": {
+"Dorval, QC CA": 3,
+"Montreal, QC CA": 27
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.156Z",
+"updated_at": "2023-05-26T17:21:30.156Z",
+"published_at": "2023-05-26T17:21:30.144Z"
+},
+{
+"name": "San Francisco",
+"id": 897,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_nd8WID0GI_kVKR-nQdikYsfHqn6XNUU-8_ZBm_Az3Uk.jpg"
+},
+"description": "",
+"start_date": "2018-07-09",
+"end_date": "2018-07-15",
+"locations": {
+"San Francisco, CA US": 32
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.241Z",
+"updated_at": "2023-05-26T17:21:30.241Z",
+"published_at": "2023-05-26T17:21:30.238Z"
+},
+{
+"name": "Oslo",
+"id": 898,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_XkT926WBfQDC5lB4Y7z9-1uUYuyYrXCZ1UJ7Minihwc.jpg"
+},
+"description": "",
+"start_date": "2018-06-04",
+"end_date": "2018-06-11",
+"locations": {
+"Roissy-en-France, Île-de-France FR": 2,
+"Paris, Île-de-France FR": 2,
+"Gardermoen, Akershus NO": 2,
+"Oslo, Oslo NO": 21,
+"Myrdal, Sogn og Fjordane NO": 1,
+"Voss, Hordaland NO": 1,
+"Bergen, Hordaland NO": 19,
+"Zaventem, Flemish Brabant BE": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.300Z",
+"updated_at": "2023-05-26T17:21:30.300Z",
+"published_at": "2023-05-26T17:21:30.297Z"
+},
+{
+"name": "New York",
+"id": 899,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-05-14",
+"end_date": "2018-05-20",
+"locations": {
+"Queens, NY US": 3,
+"New York, NY US": 29,
+"Flushing, NY US": 1,
+"Brooklyn, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.379Z",
+"updated_at": "2023-05-26T17:21:30.379Z",
+"published_at": "2023-05-26T17:21:30.376Z"
+},
+{
+"name": "New York",
+"id": 901,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-03-18",
+"end_date": "2018-03-23",
+"locations": {
+"Queens, NY US": 2,
+"New York, NY US": 11
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.461Z",
+"updated_at": "2023-05-26T17:21:30.461Z",
+"published_at": "2023-05-26T17:21:30.458Z"
+},
+{
+"name": "New York",
+"id": 902,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2018-02-28",
+"end_date": "2018-03-02",
+"locations": {
+"Queens, NY US": 3,
+"New York, NY US": 5,
+"Brooklyn, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.488Z",
+"updated_at": "2023-05-26T17:21:30.488Z",
+"published_at": "2023-05-26T17:21:30.486Z"
+},
+{
+"name": "Las Vegas",
+"id": 904,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2017-12-15",
+"end_date": "2017-12-18",
+"locations": {
+"Las Vegas, NV US": 5
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.530Z",
+"updated_at": "2023-05-26T17:21:30.530Z",
+"published_at": "2023-05-26T17:21:30.527Z"
+},
+{
+"name": "Cheektowaga",
+"id": 905,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2017-11-16",
+"end_date": "2017-11-20",
+"locations": {
+"Cheektowaga, NY US": 2,
+"Geneseo, NY US": 1,
+"Livonia, NY US": 1,
+"Buffalo, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.549Z",
+"updated_at": "2023-05-26T17:21:30.549Z",
+"published_at": "2023-05-26T17:21:30.546Z"
+},
+{
+"name": "Three Oaks",
+"id": 907,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2017-10-06",
+"end_date": "2017-10-07",
+"locations": {
+"Three Oaks, MI US": 2,
+"Baroda, MI US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.580Z",
+"updated_at": "2023-05-26T17:21:30.580Z",
+"published_at": "2023-05-26T17:21:30.577Z"
+},
+{
+"name": "Denver",
+"id": 908,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2017-09-13",
+"end_date": "2017-10-01",
+"locations": {
+"SeaTac, WA US": 1,
+"Seattle, WA US": 4,
+"Langford, BC CA": 1,
+"Port Renfrew, BC CA": 1,
+"Sooke, BC CA": 1,
+"Victoria, BC CA": 2,
+"Sidney, BC CA": 1,
+"Tsawwassen, BC CA": 1,
+"Vancouver, BC CA": 7,
+"Kamloops, BC CA": 3,
+"Blue River, BC CA": 1,
+"Mount Robson, BC CA": 1,
+"Jasper, AB CA": 3,
+"Improvement District No. 12, AB CA": 1,
+"Lake Louise, AB CA": 2,
+"Canmore, AB CA": 2,
+"Banff, AB CA": 1,
+"Field, BC CA": 1,
+"Revelstoke, BC CA": 1,
+"Whistler, BC CA": 8,
+"DesMoines, WA US": 1,
+"Denver, CO US": 12,
+"Vail, CO US": 2,
+"Walcott, CO US": 1,
+"Wolcott, CO US": 2,
+"Edwards, CO US": 1,
+"Morrison, CO US": 1,
+"Georgetown, CO US": 1,
+"Idaho Springs, CO US": 1,
+"Aurora, CO US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.591Z",
+"updated_at": "2023-05-26T17:21:30.591Z",
+"published_at": "2023-05-26T17:21:30.589Z"
+},
+{
+"name": "Reykjavik",
+"id": 909,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2017-06-17",
+"end_date": "2017-06-24",
+"locations": {
+"Queens, NY US": 2,
+"Reykjavik, Capital Region IS": 7,
+"Grindavik, Southern Peninsula IS": 1,
+"Reykholt, South IS": 1,
+"Fludir, South IS": 1,
+"Hveragerdi, South IS": 1,
+"Selfoss, South IS": 2,
+"Bláskógabyggð, South IS": 1,
+"Gullfoss, South IS": 1,
+"Keflavik, Southern Peninsula IS": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.693Z",
+"updated_at": "2023-05-26T17:21:30.693Z",
+"published_at": "2023-05-26T17:21:30.690Z"
+},
+{
+"name": "Las Vegas",
+"id": 910,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2017-02-15",
+"end_date": "2017-02-21",
+"locations": {
+"Las Vegas, NV US": 6,
+"Saint George, UT US": 1,
+"Brian Head, UT US": 4
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.734Z",
+"updated_at": "2023-05-26T17:21:30.734Z",
+"published_at": "2023-05-26T17:21:30.731Z"
+},
+{
+"name": "Miami",
+"id": 912,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-12-26",
+"end_date": "2017-01-07",
+"locations": {
+"Royal Oak, MI US": 1,
+"Romulus, MI US": 1,
+"Fort Lauderdale, FL US": 7,
+"Miami, FL US": 8,
+"Miami Beach, FL US": 2
+},
+"tags": {
+"bestfrensleys": 1,
+"gerstenwithlove": 1
+},
+"created_at": "2023-05-26T17:21:30.780Z",
+"updated_at": "2023-05-26T17:21:30.780Z",
+"published_at": "2023-05-26T17:21:30.777Z"
+},
+{
+"name": "Denver",
+"id": 913,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-12-16",
+"end_date": "2016-12-19",
+"locations": {
+"Denver, CO US": 13
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.818Z",
+"updated_at": "2023-05-26T17:21:30.818Z",
+"published_at": "2023-05-26T17:21:30.815Z"
+},
+{
+"name": "Cheektowaga",
+"id": 914,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-12-09",
+"end_date": "2016-12-11",
+"locations": {
+"Cheektowaga, NY US": 2,
+"Geneseo, NY US": 1,
+"East Aurora, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.847Z",
+"updated_at": "2023-05-26T17:21:30.847Z",
+"published_at": "2023-05-26T17:21:30.845Z"
+},
+{
+"name": "Lahaina",
+"id": 915,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-11-13",
+"end_date": "2016-11-21",
+"locations": {
+"San Francisco, CA US": 2,
+"Los Angeles, CA US": 2,
+"Kahului, HI US": 2,
+"Lahaina, HI US": 6,
+"Kapalua, HI US": 1,
+"Kula, HI US": 3,
+"Makawao, HI US": 2,
+"Hāna, HI US": 3,
+"Hāna, Hawaii": 1,
+"Wailuku, HI US": 1,
+"Kīhei, HI US": 2,
+"Wailea, HI US": 3,
+"Millbrae, CA US": 2
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.864Z",
+"updated_at": "2023-05-26T17:21:30.864Z",
+"published_at": "2023-05-26T17:21:30.862Z"
+},
+{
+"name": "Dallas",
+"id": 916,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-11-04",
+"end_date": "2016-11-07",
+"locations": {
+"Dallas, TX US": 9,
+"Henderson, TX US": 3,
+"Laneville, TX US": 2
+},
+"tags": {
+"fingermanorrbust": 1
+},
+"created_at": "2023-05-26T17:21:30.922Z",
+"updated_at": "2023-05-26T17:21:30.922Z",
+"published_at": "2023-05-26T17:21:30.919Z"
+},
+{
+"name": "Reykjavik",
+"id": 917,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-10-29",
+"end_date": "2016-11-02",
+"locations": {
+"Boston, MA US": 2,
+"Keflavik, Southern Peninsula IS": 2,
+"Grundarfjordur, West IS": 1,
+"Reykjavik, Capital Region IS": 8,
+"Reykjavík, Höfuðborgarsvæðið IS": 1,
+"Hveragerdi, South IS": 1,
+"Reykholt, South IS": 1,
+"Bláskógabyggð, South IS": 1,
+"Nesjavellir, South IS": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:30.952Z",
+"updated_at": "2023-05-26T17:21:30.952Z",
+"published_at": "2023-05-26T17:21:30.949Z"
+},
+{
+"name": "Portland",
+"id": 918,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-09-16",
+"end_date": "2016-09-19",
+"locations": {
+"Portland, OR US": 12,
+"Cannon Beach, OR US": 2,
+"Manzanita, OR US": 1,
+"Nehalem, OR US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.001Z",
+"updated_at": "2023-05-26T17:21:31.001Z",
+"published_at": "2023-05-26T17:21:30.998Z"
+},
+{
+"name": "Denver",
+"id": 920,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-07-15",
+"end_date": "2016-07-19",
+"locations": {
+"Denver, CO US": 11,
+"Boulder, CO US": 2,
+"Morrison, CO US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.058Z",
+"updated_at": "2023-05-26T17:21:31.058Z",
+"published_at": "2023-05-26T17:21:31.056Z"
+},
+{
+"name": "Woodstock",
+"id": 921,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-06-24",
+"end_date": "2016-07-04",
+"locations": {
+"Albany, NY US": 1,
+"Woodstock, NY US": 3,
+"West Shokan, NY US": 1,
+"Canisteo, NY US": 1,
+"Geneseo, NY US": 2,
+"Livingston County, NY US": 1,
+"Elkhart, IN US": 1
+},
+"tags": {
+"wetzfest": 3
+},
+"created_at": "2023-05-26T17:21:31.091Z",
+"updated_at": "2023-05-26T17:21:31.091Z",
+"published_at": "2023-05-26T17:21:31.087Z"
+},
+{
+"name": "Cheektowaga",
+"id": 922,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-06-16",
+"end_date": "2016-06-18",
+"locations": {
+"Cheektowaga, NY US": 2,
+"Hamburg, NY US": 1,
+"East Aurora, NY US": 1,
+"Buffalo, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.113Z",
+"updated_at": "2023-05-26T17:21:31.113Z",
+"published_at": "2023-05-26T17:21:31.111Z"
+},
+{
+"name": "Tres Piedras",
+"id": 923,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_Gw_invt9iLDJk8ZEJNgwkLzahs0yJuREOo9Ck0NKiCE.jpg"
+},
+"description": "",
+"start_date": "2016-06-05",
+"end_date": "2016-06-12",
+"locations": {
+"Denver, CO US": 2,
+"Antonito, CO US": 2,
+"Tres Piedras, NM US": 2,
+"Taos, NM US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.132Z",
+"updated_at": "2023-05-26T17:21:31.132Z",
+"published_at": "2023-05-26T17:21:31.129Z"
+},
+{
+"name": "Cancún",
+"id": 924,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-05-23",
+"end_date": "2016-05-26",
+"locations": {
+"Cancún, Quintana Roo MX": 8
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.151Z",
+"updated_at": "2023-05-26T17:21:31.151Z",
+"published_at": "2023-05-26T17:21:31.148Z"
+},
+{
+"name": "Brooklyn",
+"id": 925,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-04-29",
+"end_date": "2016-05-02",
+"locations": {
+"Queens, NY US": 2,
+"New York, NY US": 2,
+"Rensselaer, NY US": 2,
+"Brooklyn, NY US": 4
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.175Z",
+"updated_at": "2023-05-26T17:21:31.175Z",
+"published_at": "2023-05-26T17:21:31.171Z"
+},
+{
+"name": "Las Vegas",
+"id": 926,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2016-04-02",
+"end_date": "2016-04-06",
+"locations": {
+"Las Vegas, NV US": 10
+},
+"tags": {
+"microconf": 1
+},
+"created_at": "2023-05-26T17:21:31.201Z",
+"updated_at": "2023-05-26T17:21:31.201Z",
+"published_at": "2023-05-26T17:21:31.199Z"
+},
+{
+"name": "Seville",
+"id": 927,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_5cUuUR1TEH--z9FoH0utWFW-Pth4_p9VyJpSRUD5z0w.jpg"
+},
+"description": "",
+"start_date": "2016-03-07",
+"end_date": "2016-03-14",
+"locations": {
+"Madrid, Madrid ES": 12,
+"Seville, Andalusia ES": 27
+},
+"tags": {
+"kzenespeña": 1,
+"kzenespaña": 1
+},
+"created_at": "2023-05-26T17:21:31.225Z",
+"updated_at": "2023-05-26T17:21:31.225Z",
+"published_at": "2023-05-26T17:21:31.223Z"
+},
+{
+"name": "Auckland",
+"id": 928,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_focEvQ64sos7JinrOmygeDucDjSEWjA-qU5OQifASeo.jpg"
+},
+"description": "",
+"start_date": "2016-01-30",
+"end_date": "2016-02-09",
+"locations": {
+"Los Angeles, CA US": 3,
+"Manukau, Auckland NZ": 3,
+"Auckland, Auckland NZ": 7,
+"Whangaparaoa, Auckland NZ": 1,
+"Waitomo Caves, Waikato NZ": 4,
+"Otorohanga, Waikato NZ": 1,
+"Rotorua, Bay of Plenty NZ": 1,
+"Taupo, Waikato NZ": 4,
+"Havelock North, Hawke's Bay NZ": 3,
+"Te Awanga, Hawke's Bay NZ": 1,
+"Hastings, Hawke's Bay NZ": 1,
+"Hawke's Bay, Hawke's Bay NZ": 1,
+"Wellington, Wellington NZ": 2,
+"Te Aro, Wellington NZ": 1,
+"Rongotai, Wellington NZ": 1,
+"Grafton, Auckland NZ": 1
+},
+"tags": {
+"kzkiwiparty": 36,
+"kwkiwiparty": 1
+},
+"created_at": "2023-05-26T17:21:31.294Z",
+"updated_at": "2023-05-26T17:21:31.294Z",
+"published_at": "2023-05-26T17:21:31.290Z"
+},
+{
+"name": "Las Vegas",
+"id": 929,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-12-30",
+"end_date": "2016-01-06",
+"locations": {
+"Las Vegas, NV US": 6,
+"Brian Head, UT US": 3,
+"Utah, UT US": 1,
+"Saint George, UT US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.358Z",
+"updated_at": "2023-05-26T17:21:31.358Z",
+"published_at": "2023-05-26T17:21:31.354Z"
+},
+{
+"name": "Denver",
+"id": 930,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-11-25",
+"end_date": "2015-12-01",
+"locations": {
+"Denver, CO US": 12,
+"Colorado Springs, CO US": 1,
+"Manitou Springs, CO US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.383Z",
+"updated_at": "2023-05-26T17:21:31.383Z",
+"published_at": "2023-05-26T17:21:31.381Z"
+},
+{
+"name": "Miami",
+"id": 932,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-11-07",
+"end_date": "2015-11-08",
+"locations": {
+"Miami, FL US": 4,
+"Miami Financial District, FL US": 1,
+"Miami Beach, FL US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.431Z",
+"updated_at": "2023-05-26T17:21:31.431Z",
+"published_at": "2023-05-26T17:21:31.428Z"
+},
+{
+"name": "Honolulu",
+"id": 933,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_rgR52xEbFp4eXmiRxSgCFRZf9cmPjZShIX5_aNpjAIo.jpg"
+},
+"description": "",
+"start_date": "2015-10-20",
+"end_date": "2015-10-29",
+"locations": {
+"Boston, MA US": 2,
+"Los Angeles, CA US": 1,
+"Honolulu, HI US": 10,
+"Kapolei, HI US": 1,
+"Hilo, HI US": 8,
+"Pāhoa, HI US": 4,
+"Kea‘au, HI US": 1,
+"Volcano, HI US": 2,
+"Captain Cook, HI US": 1,
+"Kailua-Kona, HI US": 3,
+"Kahaluu-Keauhou, HI US": 1,
+"Nā‘ālehu, HI US": 1,
+"Honomu, HI US": 1,
+"Grapevine, TX US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.449Z",
+"updated_at": "2023-05-26T17:21:31.449Z",
+"published_at": "2023-05-26T17:21:31.446Z"
+},
+{
+"name": "Rochester",
+"id": 934,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-09-04",
+"end_date": "2015-09-09",
+"locations": {
+"Rochester, NY US": 4,
+"Honeoye Falls, NY US": 1,
+"Livonia, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.514Z",
+"updated_at": "2023-05-26T17:21:31.514Z",
+"published_at": "2023-05-26T17:21:31.511Z"
+},
+{
+"name": "Golden",
+"id": 935,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-08-13",
+"end_date": "2015-08-16",
+"locations": {
+"Minneapolis, MN US": 2,
+"Richfield, MN US": 1,
+"Denver, CO US": 2,
+"Golden, CO US": 3,
+"Evergreen, CO US": 2,
+"Morrison, CO US": 1,
+"Littleton, CO US": 1
+},
+"tags": {
+"foreverly2015": 1
+},
+"created_at": "2023-05-26T17:21:31.533Z",
+"updated_at": "2023-05-26T17:21:31.533Z",
+"published_at": "2023-05-26T17:21:31.530Z"
+},
+{
+"name": "Paris",
+"id": 936,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-08-01",
+"end_date": "2015-08-13",
+"locations": {
+"Minneapolis, MN US": 2,
+"Bloomington, MN US": 1,
+"Edina, MN US": 1,
+"Philadelphia, PA US": 1,
+"Roissy-en-France, Île-de-France FR": 2,
+"Paris, Île-de-France FR": 15,
+"Loches, Centre-Val de Loire FR": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.560Z",
+"updated_at": "2023-05-26T17:21:31.560Z",
+"published_at": "2023-05-26T17:21:31.557Z"
+},
+{
+"name": "Roundwood",
+"id": 937,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-07-22",
+"end_date": "2015-07-28",
+"locations": {
+"Philadelphia, PA US": 1,
+"Dublin, Dublin City IE": 2,
+"Roundwood, Co Wicklow IE": 4,
+"Co Wicklow, Co Wicklow IE": 3,
+"Enniskerry, Co Wicklow IE": 1,
+"Charlotte, NC US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.604Z",
+"updated_at": "2023-05-26T17:21:31.604Z",
+"published_at": "2023-05-26T17:21:31.602Z"
+},
+{
+"name": "Washington",
+"id": 938,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-07-17",
+"end_date": "2015-07-19",
+"locations": {
+"Dulles, VA US": 2,
+"McLean, VA US": 1,
+"Washington, D.C. US": 4,
+"Tysons, VA US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.632Z",
+"updated_at": "2023-05-26T17:21:31.632Z",
+"published_at": "2023-05-26T17:21:31.630Z"
+},
+{
+"name": "Rochester",
+"id": 939,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-07-02",
+"end_date": "2015-07-08",
+"locations": {
+"Rochester, NY US": 2,
+"Lowville, NY US": 1,
+"Gloversville, NY US": 1,
+"Geneseo, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.652Z",
+"updated_at": "2023-05-26T17:21:31.652Z",
+"published_at": "2023-05-26T17:21:31.650Z"
+},
+{
+"name": "Reykjavik",
+"id": 940,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753__Gx6ovB-dVyPYbbYupOczuMs5C1UeAIiBlTnhDkqUOA.jpg"
+},
+"description": "",
+"start_date": "2015-06-14",
+"end_date": "2015-06-29",
+"locations": {
+"Boston, MA US": 4,
+"Cambridge, MA US": 5,
+"Keflavik, Southern Peninsula IS": 2,
+"Grindavik, Southern Peninsula IS": 1,
+"Reykjavik, Capital Region IS": 22,
+"Stykkisholmur, West IS": 2,
+"Breiðafjörður, Western Fjords IS": 1,
+"Hvammstangi, North IS": 2,
+"Akureyri, North Iceland IS": 3,
+"Laugar, North Iceland IS": 1,
+"Reykjahlid, North Iceland IS": 1,
+"Hofn, East IS": 1,
+"Öræfi, Iceland IS": 1,
+"Kirkjubaejarklaustur, South IS": 2,
+"Vik, South IS": 2,
+"Skogar, South IS": 1,
+"Hvolsvollur, South IS": 1,
+"Stokkseyri, South IS": 1,
+"Gullfoss, South IS": 1,
+"Bláskógabyggð, South IS": 1,
+"Selfoss, South IS": 1,
+"Reykjavík, Höfuðborgarsvæðið IS": 2
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.666Z",
+"updated_at": "2023-05-26T17:21:31.666Z",
+"published_at": "2023-05-26T17:21:31.664Z"
+},
+{
+"name": "Rochester",
+"id": 941,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-05-21",
+"end_date": "2015-05-24",
+"locations": {
+"Rochester, NY US": 2,
+"East Aurora, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.785Z",
+"updated_at": "2023-05-26T17:21:31.785Z",
+"published_at": "2023-05-26T17:21:31.782Z"
+},
+{
+"name": "Raleigh",
+"id": 942,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-05-08",
+"end_date": "2015-05-10",
+"locations": {
+"Morrisville, NC US": 2,
+"Raleigh, NC US": 9
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.798Z",
+"updated_at": "2023-05-26T17:21:31.798Z",
+"published_at": "2023-05-26T17:21:31.796Z"
+},
+{
+"name": "Nashville",
+"id": 943,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-02-12",
+"end_date": "2015-02-15",
+"locations": {
+"Nashville, TN US": 13
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.833Z",
+"updated_at": "2023-05-26T17:21:31.833Z",
+"published_at": "2023-05-26T17:21:31.831Z"
+},
+{
+"name": "New York",
+"id": 944,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-02-07",
+"end_date": "2015-02-09",
+"locations": {
+"Queens, NY US": 2,
+"New York, NY US": 6,
+"Gowanus, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.863Z",
+"updated_at": "2023-05-26T17:21:31.863Z",
+"published_at": "2023-05-26T17:21:31.860Z"
+},
+{
+"name": "Palm Desert",
+"id": 945,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2015-01-13",
+"end_date": "2015-01-18",
+"locations": {
+"Palm Springs, CA US": 2,
+"Landers, CA US": 1,
+"Joshua Tree, CA US": 1,
+"Twentynine Palms, CA US": 1,
+"Palm Desert, CA US": 3,
+"Rancho Mirage, CA US": 1,
+"Ontario, CA US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.885Z",
+"updated_at": "2023-05-26T17:21:31.885Z",
+"published_at": "2023-05-26T17:21:31.883Z"
+},
+{
+"name": "Las Vegas",
+"id": 946,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_wc4J47OKtkTM9AF7d7IqI03wL1IGWnOe7paF-mzyw3g.jpg"
+},
+"description": "",
+"start_date": "2014-12-17",
+"end_date": "2014-12-21",
+"locations": {
+"Las Vegas, NV US": 5
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.906Z",
+"updated_at": "2023-05-26T17:21:31.906Z",
+"published_at": "2023-05-26T17:21:31.904Z"
+},
+{
+"name": "Rochester",
+"id": 947,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2014-11-26",
+"end_date": "2014-12-01",
+"locations": {
+"Rochester, NY US": 2,
+"Eden, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.921Z",
+"updated_at": "2023-05-26T17:21:31.921Z",
+"published_at": "2023-05-26T17:21:31.919Z"
+},
+{
+"name": "San Francisco",
+"id": 948,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2014-10-29",
+"end_date": "2014-11-05",
+"locations": {
+"San Francisco, CA US": 6,
+"Carmel, CA US": 3,
+"Monterey, CA US": 1,
+"Big Sur, CA US": 2,
+"Pacifica, CA US": 1,
+"Sausalito, CA US": 1,
+"Mill Valley, CA US": 3
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.934Z",
+"updated_at": "2023-05-26T17:21:31.934Z",
+"published_at": "2023-05-26T17:21:31.931Z"
+},
+{
+"name": "Rochester",
+"id": 950,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_fRRRO_3p1hIV6wIaO8JXm9SI6nq4m79kt7dDsPxlhHE.jpg"
+},
+"description": "",
+"start_date": "2014-08-28",
+"end_date": "2014-09-02",
+"locations": {
+"Rochester, NY US": 2,
+"Dansville, NY US": 1,
+"Livonia, NY US": 1,
+"Geneseo, NY US": 1,
+"Castile, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:31.976Z",
+"updated_at": "2023-05-26T17:21:31.976Z",
+"published_at": "2023-05-26T17:21:31.973Z"
+},
+{
+"name": "Gloversville",
+"id": 952,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_2ZFZTaAozuKL0TToZkj5C3BuNDUYwvnJTjBEVWUsn0c.jpg"
+},
+"description": "",
+"start_date": "2014-06-30",
+"end_date": "2014-07-03",
+"locations": {
+"Elkhart, IN US": 1,
+"Erie, PA US": 1,
+"Pulaski, NY US": 1,
+"Gloversville, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.007Z",
+"updated_at": "2023-05-26T17:21:32.007Z",
+"published_at": "2023-05-26T17:21:32.005Z"
+},
+{
+"name": "Lafayette",
+"id": 954,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2014-04-11",
+"end_date": "2014-04-13",
+"locations": {
+"Indianapolis, IN US": 1,
+"Frankfort, KY US": 1,
+"Lexington, KY US": 1,
+"Lafayette, IN US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.040Z",
+"updated_at": "2023-05-26T17:21:32.040Z",
+"published_at": "2023-05-26T17:21:32.038Z"
+},
+{
+"name": "Vernazza",
+"id": 955,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_U6sPhvRXPDXpYIVN_dsoopWCjXleKzJGb_aDBqldvYk.jpg"
+},
+"description": "",
+"start_date": "2014-03-23",
+"end_date": "2014-04-01",
+"locations": {
+"Newark, NJ US": 2,
+"Milan, Lombardy IT": 6,
+"Vernazza, Liguria IT": 9,
+"La Spezia, Liguria IT": 1,
+"Pisa, Tuscany IT": 2,
+"Florence, Tuscany IT": 9,
+"San Gimignano, Tuscany IT": 1,
+"Ferno, Lombardy IT": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.052Z",
+"updated_at": "2023-05-26T17:21:32.052Z",
+"published_at": "2023-05-26T17:21:32.049Z"
+},
+{
+"name": "Playa del Carmen",
+"id": 956,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2013-12-27",
+"end_date": "2014-01-01",
+"locations": {
+"Atlanta, GA US": 2,
+"Playa del Carmen, Quintana Roo MX": 3,
+"Cancún, Quintana Roo MX": 1,
+"Tulum, Quintana Roo MX": 1
+},
+"tags": {
+"latecheckin": 1
+},
+"created_at": "2023-05-26T17:21:32.107Z",
+"updated_at": "2023-05-26T17:21:32.107Z",
+"published_at": "2023-05-26T17:21:32.104Z"
+},
+{
+"name": "Rochester",
+"id": 957,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2013-12-18",
+"end_date": "2013-12-26",
+"locations": {
+"Rochester, NY US": 2,
+"Livonia, NY US": 1,
+"Geneseo, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.127Z",
+"updated_at": "2023-05-26T17:21:32.127Z",
+"published_at": "2023-05-26T17:21:32.124Z"
+},
+{
+"name": "Las Vegas",
+"id": 958,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_QJN7EfrzgPRkE5bvi8toZPSpdMEejpsmlkTKeSwM90M.jpg"
+},
+"description": "",
+"start_date": "2013-11-25",
+"end_date": "2013-12-02",
+"locations": {
+"Las Vegas, NV US": 20
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.144Z",
+"updated_at": "2023-05-26T17:21:32.144Z",
+"published_at": "2023-05-26T17:21:32.141Z"
+},
+{
+"name": "San Francisco",
+"id": 959,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_x2JoMhriY8TMFG1_4uwYWJXBrDZHdkXHPSFnB3gFrSU.jpg"
+},
+"description": "",
+"start_date": "2013-09-16",
+"end_date": "2013-09-26",
+"locations": {
+"San Diego, CA US": 6,
+"La Jolla, CA US": 3,
+"Corona del Mar, CA US": 1,
+"Venice, CA US": 4,
+"Santa Monica, CA US": 3,
+"Los Angeles, CA US": 2,
+"Malibu, CA US": 1,
+"Oceano, CA US": 1,
+"Arroyo Grande, CA US": 1,
+"San Simeon, CA US": 1,
+"Big Sur, CA US": 1,
+"Sonoma, CA US": 1,
+"Napa, CA US": 1,
+"San Francisco, CA US": 10
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.183Z",
+"updated_at": "2023-05-26T17:21:32.183Z",
+"published_at": "2023-05-26T17:21:32.179Z"
+},
+{
+"name": "Las Vegas",
+"id": 961,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_JVY4DZu0sIFbxOZxbvDx-hlBMY26Ydx54mWSfan5yBI.jpg"
+},
+"description": "",
+"start_date": "2013-06-30",
+"end_date": "2013-07-09",
+"locations": {
+"Las Vegas, NV US": 8
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.261Z",
+"updated_at": "2023-05-26T17:21:32.261Z",
+"published_at": "2023-05-26T17:21:32.259Z"
+},
+{
+"name": "Rochester",
+"id": 962,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_zSRAZNaci03ijwocxxTAcPWMci8tXe8mupgRTn9b0v4.jpg"
+},
+"description": "",
+"start_date": "2013-06-26",
+"end_date": "2013-07-04",
+"locations": {
+"Rochester, NY US": 4,
+"Gloversville, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.282Z",
+"updated_at": "2023-05-26T17:21:32.282Z",
+"published_at": "2023-05-26T17:21:32.279Z"
+},
+{
+"name": "Paris",
+"id": 963,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_aCM7ds1gwz8Pa4DssybF49oaaq6H8RhLRGCEQxc3fhc.jpg"
+},
+"description": "",
+"start_date": "2013-05-19",
+"end_date": "2013-05-29",
+"locations": {
+"Märsta, Stockholm SE": 1,
+"Roissy-en-France, Île-de-France FR": 2,
+"Paris, Île-de-France FR": 19,
+"Versailles, Île-de-France FR": 1,
+"Tours, Centre-Val de Loire FR": 5,
+"Kastrup, Capital Region DK": 2,
+"Copenhagen, Capital Region DK": 4,
+"København K, Capital Region DK": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.301Z",
+"updated_at": "2023-05-26T17:21:32.301Z",
+"published_at": "2023-05-26T17:21:32.299Z"
+},
+{
+"name": "Las Vegas",
+"id": 964,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_SScSj-jdOqWZnQZ8qUnwzRa_IkPS2v3qVDF34nfu4xg.jpg"
+},
+"description": "",
+"start_date": "2013-04-17",
+"end_date": "2013-04-23",
+"locations": {
+"Las Vegas, NV US": 23
+},
+"tags": {
+"inthedesert": 15,
+"anniversarysuite": 1
+},
+"created_at": "2023-05-26T17:21:32.362Z",
+"updated_at": "2023-05-26T17:21:32.362Z",
+"published_at": "2023-05-26T17:21:32.360Z"
+},
+{
+"name": "Delray Beach",
+"id": 965,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_Y8Ri421iMfH4_vxwmSBigSurkaK5vASQvP_UjUnqbmA.jpg"
+},
+"description": "",
+"start_date": "2013-03-23",
+"end_date": "2013-03-27",
+"locations": {
+"Fort Lauderdale, FL US": 2,
+"Delray Beach, FL US": 8,
+"Boynton Beach, FL US": 3
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.402Z",
+"updated_at": "2023-05-26T17:21:32.402Z",
+"published_at": "2023-05-26T17:21:32.400Z"
+},
+{
+"name": "New York",
+"id": 966,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_ecFoG98srUz5ldEZRHVs7op_teUyb43rf8fqpcWP2SQ.jpg"
+},
+"description": "",
+"start_date": "2013-02-20",
+"end_date": "2013-02-24",
+"locations": {
+"Queens, NY US": 2,
+"New York, NY US": 10,
+"Brooklyn, NY US": 7
+},
+"tags": {
+"smwcomedy": 1,
+"kanzdonyc": 6
+},
+"created_at": "2023-05-26T17:21:32.429Z",
+"updated_at": "2023-05-26T17:21:32.429Z",
+"published_at": "2023-05-26T17:21:32.427Z"
+},
+{
+"name": "Las Vegas",
+"id": 967,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_NsfDzPNDt_vqSwUe33xb-TtP0Zp7ynr9ZlU-yXTvbNc.jpg"
+},
+"description": "",
+"start_date": "2012-12-20",
+"end_date": "2012-12-29",
+"locations": {
+"Las Vegas, NV US": 19,
+"Cedar City, UT US": 1,
+"Brian Head, UT US": 5
+},
+"tags": {
+"kreilingcabinchristmas": 18,
+"amajoraward": 1,
+"kreilingcabinchistmas": 1
+},
+"created_at": "2023-05-26T17:21:32.462Z",
+"updated_at": "2023-05-26T17:21:32.462Z",
+"published_at": "2023-05-26T17:21:32.460Z"
+},
+{
+"name": "Colorado Springs",
+"id": 968,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_BHSvYy-4qYQCGjpctarYWjkwJA1JR8HL__mWvn-tmzI.jpg"
+},
+"description": "",
+"start_date": "2012-11-21",
+"end_date": "2012-11-25",
+"locations": {
+"Denver, CO US": 2,
+"Colorado Springs, CO US": 5,
+"Southeastern El Paso, CO US": 1,
+"Manitou Springs, CO US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.511Z",
+"updated_at": "2023-05-26T17:21:32.511Z",
+"published_at": "2023-05-26T17:21:32.508Z"
+},
+{
+"name": "Reykjavik",
+"id": 969,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/516753_wpOAIY8t60F36Nwj4jgZPj1j1RnJGJsV9O07WfAnxEk.jpg"
+},
+"description": "",
+"start_date": "2012-10-31",
+"end_date": "2012-11-07",
+"locations": {
+"Denver, CO US": 5,
+"Keflavik, Southern Peninsula IS": 1,
+"Bláskógabyggð, South IS": 2,
+"Gullfoss, South IS": 1,
+"Selfoss, South IS": 1,
+"Reykjavik, Capital Region IS": 13,
+"Reykjavík, Höfuðborgarsvæðið IS": 2,
+"Grindavik, Southern Peninsula IS": 1,
+"Hvolsvollur, South IS": 1
+},
+"tags": {
+"operationiceland": 22,
+"latecheckin": 9,
+"operartioniceland": 1
+},
+"created_at": "2023-05-26T17:21:32.532Z",
+"updated_at": "2023-05-26T17:21:32.532Z",
+"published_at": "2023-05-26T17:21:32.529Z"
+},
+{
+"name": "Folly Beach",
+"id": 970,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2012-10-04",
+"end_date": "2012-10-08",
+"locations": {
+"North Charleston, SC US": 2,
+"Charleston, SC US": 2,
+"Folly Beach, SC US": 3
+},
+"tags": {
+"lovebrettandkate": 8
+},
+"created_at": "2023-05-26T17:21:32.585Z",
+"updated_at": "2023-05-26T17:21:32.585Z",
+"published_at": "2023-05-26T17:21:32.583Z"
+},
+{
+"name": "Rochester",
+"id": 971,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/4Zgt7DCnAMss-VcsoCh4Fh8jKltHG1YmN3RW5BQKVhA.jpg"
+},
+"description": "",
+"start_date": "2012-06-12",
+"end_date": "2012-07-10",
+"locations": {
+"Geneseo, NY US": 1,
+"Lakeville, NY US": 2,
+"Aurora, NY US": 1,
+"Cayuga, NY US": 1,
+"Rochester, NY US": 3,
+"Livonia, NY US": 1,
+"Livingston County, NY US": 2,
+"Canisteo, NY US": 1,
+"New Hartford, NY US": 1,
+"Gloversville, NY US": 1,
+"Hamburg, NY US": 2,
+"Niagara Falls, NY US": 2,
+"Niagara Falls, ON CA": 2,
+"Amherst, NY US": 1,
+"Cheektowaga, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.606Z",
+"updated_at": "2023-05-26T17:21:32.606Z",
+"published_at": "2023-05-26T17:21:32.603Z"
+},
+{
+"name": "Austin",
+"id": 973,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2012-03-08",
+"end_date": "2012-03-13",
+"locations": {
+"Austin, TX US": 15,
+"Driftwood, TX US": 1
+},
+"tags": {
+"sxsw": 1
+},
+"created_at": "2023-05-26T17:21:32.661Z",
+"updated_at": "2023-05-26T17:21:32.661Z",
+"published_at": "2023-05-26T17:21:32.658Z"
+},
+{
+"name": "Cheektowaga",
+"id": 974,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2011-12-22",
+"end_date": "2011-12-29",
+"locations": {
+"Lakeville, NY US": 1,
+"Cheektowaga, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.692Z",
+"updated_at": "2023-05-26T17:21:32.692Z",
+"published_at": "2023-05-26T17:21:32.690Z"
+},
+{
+"name": "San Francisco",
+"id": 975,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2011-10-20",
+"end_date": "2011-10-25",
+"locations": {
+"San Francisco, CA US": 24
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.703Z",
+"updated_at": "2023-05-26T17:21:32.703Z",
+"published_at": "2023-05-26T17:21:32.701Z"
+},
+{
+"name": "Brooklyn",
+"id": 976,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2011-08-10",
+"end_date": "2011-08-20",
+"locations": {
+"Newark, NJ US": 1,
+"New York, NY US": 1,
+"Brooklyn, NY US": 7,
+"Queens, NY US": 3
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.745Z",
+"updated_at": "2023-05-26T17:21:32.745Z",
+"published_at": "2023-05-26T17:21:32.743Z"
+},
+{
+"name": "Rochester",
+"id": 977,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2011-06-29",
+"end_date": "2011-07-05",
+"locations": {
+"Geneseo, NY US": 1,
+"Rochester, NY US": 2,
+"Cheektowaga, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.771Z",
+"updated_at": "2023-05-26T17:21:32.771Z",
+"published_at": "2023-05-26T17:21:32.769Z"
+},
+{
+"name": "San Francisco",
+"id": 978,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2011-03-23",
+"end_date": "2011-03-31",
+"locations": {
+"San Francisco, CA US": 21
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.784Z",
+"updated_at": "2023-05-26T17:21:32.784Z",
+"published_at": "2023-05-26T17:21:32.781Z"
+},
+{
+"name": "Austin",
+"id": 979,
+"slug": null,
+"cover": {
+"image": "https://fastly.4sqi.net/img/general/original/URFYBOH4OEBMK3MWKC5QHYJLINVCWY3T1YB3SKWNCD4V3YEX.jpg"
+},
+"description": "",
+"start_date": "2011-03-10",
+"end_date": "2011-03-18",
+"locations": {
+"Austin, TX US": 40,
+"Driftwood, TX US": 1
+},
+"tags": {
+"sxsw": 3,
+"nerdspringbreak": 2,
+"nap": 1,
+"work.": 1
+},
+"created_at": "2023-05-26T17:21:32.818Z",
+"updated_at": "2023-05-26T17:21:32.818Z",
+"published_at": "2023-05-26T17:21:32.816Z"
+},
+{
+"name": "San Francisco",
+"id": 980,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2011-02-22",
+"end_date": "2011-03-03",
+"locations": {
+"San Francisco, CA US": 22,
+"Mill Valley, CA US": 2
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.878Z",
+"updated_at": "2023-05-26T17:21:32.878Z",
+"published_at": "2023-05-26T17:21:32.876Z"
+},
+{
+"name": "Philadelphia",
+"id": 981,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2010-12-19",
+"end_date": "2010-12-28",
+"locations": {
+"Philadelphia, PA US": 6,
+"Cherry Hill, NJ US": 1,
+"Kentwood, MI US": 1,
+"Grandville, MI US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.922Z",
+"updated_at": "2023-05-26T17:21:32.922Z",
+"published_at": "2023-05-26T17:21:32.918Z"
+},
+{
+"name": "Portland",
+"id": 982,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2010-10-22",
+"end_date": "2010-10-26",
+"locations": {
+"Portland, OR US": 16,
+"Cannon Beach, OR US": 2
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.948Z",
+"updated_at": "2023-05-26T17:21:32.948Z",
+"published_at": "2023-05-26T17:21:32.943Z"
+},
+{
+"name": "Rochester",
+"id": 983,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2010-10-13",
+"end_date": "2010-10-21",
+"locations": {
+"Blasdell, NY US": 1,
+"Rochester, NY US": 4,
+"Lakeville, NY US": 1,
+"Cheektowaga, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:32.984Z",
+"updated_at": "2023-05-26T17:21:32.984Z",
+"published_at": "2023-05-26T17:21:32.981Z"
+},
+{
+"name": "Morehead City",
+"id": 984,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2010-07-28",
+"end_date": "2010-08-03",
+"locations": {
+"Ronkonkoma, NY US": 2,
+"Massapequa Park, NY US": 1,
+"Richmond, VA US": 1,
+"Morehead City, NC US": 4,
+"Salter Path, NC US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:33.002Z",
+"updated_at": "2023-05-26T17:21:33.002Z",
+"published_at": "2023-05-26T17:21:33.000Z"
+},
+{
+"name": "Rochester",
+"id": 985,
+"slug": null,
+"cover": {},
+"description": "",
+"start_date": "2010-03-16",
+"end_date": "2010-03-22",
+"locations": {
+"Rochester, NY US": 3,
+"Lakeville, NY US": 1,
+"Le Roy, NY US": 1,
+"Waterloo, NY US": 1,
+"Cheektowaga, NY US": 1
+},
+"tags": {},
+"created_at": "2023-05-26T17:21:33.023Z",
+"updated_at": "2023-05-26T17:21:33.023Z",
+"published_at": "2023-05-26T17:21:33.020Z"
+}
+]
